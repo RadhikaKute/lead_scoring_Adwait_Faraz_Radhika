@@ -25,5 +25,6 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 10. Conclusion
 
 ## Notebooks:
-1. <a href="RadhikaKute.github.io/lead_scoring_Adwait_Faraz_Radhika/document.pdf" target="_blank">Python Commented File.</a>
-2. https://github.com/RadhikaKute/lead_scoring_Adwait_Faraz_Radhika/edit/main/README.md
+1. <a href="RadhikaKute.github.io/lead_scoring_Adwait_Faraz_Radhika/Lead_Scoring_Case_Study_Python.ipynb" target="_blank">Python Commented File.</a>
+2. <a href="RadhikaKute.github.io/lead_scoring_Adwait_Faraz_Radhika/Lead_Scoring_Case_Study_PPT.pdf" target="_blank">Presentation PDF.</a>
+3. https://github.com/RadhikaKute/lead_scoring_Adwait_Faraz_Radhika/edit/main/README.md
