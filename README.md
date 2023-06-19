@@ -26,5 +26,5 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 
 ## Notebooks:
 1. <a href="Lead_Scoring_Case_Study_Python.ipynb" target="_blank">Python Commented File.</a>
-2. <a href="Lead_Scoring_Case_Study_PPT.pdf" target="_blank">Presentation PDF.</a>
+2. <a href="pdfs/Lead_Scoring_Case_Study_PPT.pdf" class="image fit" target="_blank"><img src="images/marr_pic.jpg" alt="">Presentation PDF.</a>
 3. <a href="README.md" target="_blank">README File.</a>
